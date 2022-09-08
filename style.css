@@ -43,6 +43,7 @@ section{
     background-color: #fff;
     grid-column: span 1/ span 2;
     /* grid-area: 1/2/3/3; */
+    
 }
 
 /* ----------------------Left side content------------------- */
